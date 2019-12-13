@@ -1,0 +1,53 @@
+{
+"companyName" : "Weird Deals Inc.",
+"headOffice" : "Toronto, Canada",
+"established" : 2019,
+"active" : true,
+"top5Deals" : [
+  {
+    "item" : "Godzilla Garden Gnome",
+    "price" : 39,
+    "dealPrice" : 25,
+    "description" : "Let those pesky, roving neighborhood gnomes know where they're
+    not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "image" : "GodzillaGardenGnome.jpg"
+  },
+
+  {
+    "item" : "Realistic dog pillow",
+    "price" : 25,
+    "dealPrice" : 15,
+    "description" : "Just because your building doesn't allow pets doesn't mean
+    you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
+    "image" : "realistic-dog-pillow.jpg"
+  },
+
+  {
+    "item" : "Bean-squeezing stress reliever",
+    "price" : 9,
+    "dealPrice" : 5,
+    "description" : "Nothing quite relieves stress like popping a cute little
+    emoji-faced bean out of a pod—right?",
+    "image" : "BeanSqueezer.jpg"
+  },
+
+  {
+    "item" : "Banana Boat",
+    "price" : 39,
+    "dealPrice" : 25,
+    "description" : "Let those pesky, roving neighborhood gnomes know where they're
+    not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "image" : "GodzillaGardenGnome.jpg"
+  },
+
+  {
+    "item" : "Dog Helmate",
+    "price" : 39,
+    "dealPrice" : 25,
+    "description" : "Let those pesky, roving neighborhood gnomes know where they're
+    not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "image" : "GodzillaGardenGnome.jpg"
+  }
+]
+
+}
