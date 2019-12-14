@@ -20,7 +20,7 @@
     "price" : 25.99,
     "dealPrice" : 15.99,
     "description" : "Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
-    "featues" : [
+    "features" : [
       "Machine washable", "Available in different dog breeds", "Cuddly"
     ],
     "image" : "realistic-dog-pillow.jpg"
