@@ -6,9 +6,12 @@
 "top5Deals" : [
   {
     "item" : "Godzilla Garden Gnome",
-    "price" : 39.99,
-    "dealPrice" : 25.99,
+    "price" : 25.99,
+    "dealPrice" : 14.99,
     "description" : "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "features" : [
+      "Scary", "Seasonal(waterproof/cold-resistant)"
+    ],
     "image" : "GodzillaGardenGnome.jpg"
   },
 
@@ -17,6 +20,9 @@
     "price" : 25.99,
     "dealPrice" : 15.99,
     "description" : "Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
+    "featues" : [
+      "Machine washable", "Available in different dog breeds", "Cuddly"
+    ],
     "image" : "realistic-dog-pillow.jpg"
   },
 
@@ -25,22 +31,31 @@
     "price" : 9.99,
     "dealPrice" : 5.99,
     "description" : "Nothing quite relieves stress like popping a cute little emoji-faced bean out of a pod—right?",
+    "features" : [
+      "Stress-relieving", "Durable"
+    ],
     "image" : "BeanSqueezer.jpg"
   },
 
   {
     "item" : "Banana Boat",
-    "price" : 39.99,
-    "dealPrice" : 25.99,
-    "description" : "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "price" : 124.99,
+    "dealPrice" : 79.99,
+    "description" : "A fun twist on a boat, usuable for fun in the water or being pulled behind a boat.",
+    "features" : [
+      "Two cup-holders", "Includes rope for tubing, or lounging", "Floats"
+    ],
     "image" : "BananaBoat.jpg"
   },
 
   {
-    "item" : "Dog Helmate",
+    "item" : "Dog Helmet",
     "price" : 39.99,
     "dealPrice" : 25.99,
-    "description" : "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+    "description" : "Ever want to bring your doggo along on your bike rides, or sign them up for an intense dog competition, but worried about their safety? Introducing the dog helmet! For active or clumsy dogs!",
+    "features" : [
+          "Double clip or single clip", "Comfortable fit", "Avalable in different colours"
+        ],
     "image" : "dog-ranger-spy-helmet.jpg"
   }
 ]
